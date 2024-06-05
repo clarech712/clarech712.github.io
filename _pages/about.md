@@ -32,6 +32,6 @@ Until mid-June, I was a visiting student in Computer Science at the University o
 
 In the upcoming final year of my BSc, I will be writing my senior honors thesis under <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at the  <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>.
 
-After graduating in May 2025, I hope to remain in academia as a PhD student in Computer Science. I am broadly interested in artificial intelligence, especially reinforcement learning, robotics, multi-agent systems, and game theory, so that is what I am likely to pursue further!
+After graduating in May 2025, I hope to remain in academia as a PhD student in Computer Science. I am broadly interested in artificial intelligence, especially reinforcement learning, robotics, and multi-agent systems, so that is what I am likely to pursue further!
 
 In my free time, I am a polyglot bookworm, injury-prone runner, and avid cafe journaler.
