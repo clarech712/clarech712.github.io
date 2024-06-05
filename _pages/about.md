@@ -30,7 +30,7 @@ During the Summer of 2024, I am a Quant Analyst Intern at <a href='https://www.i
 
 Until mid-June, I was a visiting student in Computer Science at the University of Oxford, where I was lucky to work on super exciting research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
 
-In the upcoming final year of my BSc, I will be writing a senior honors thesis under <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at the  <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>.
+In the upcoming final year of my BSc, I will be writing my senior honors thesis under <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at the  <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>.
 
 After graduating in May 2025, I hope to remain in academia as a PhD student in Computer Science. I am broadly interested in artificial intelligence, especially reinforcement learning, robotics, and multi-agent systems, so that is what I am likely to pursue further!
 
