@@ -26,28 +26,12 @@ social: true # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-I am a Quant Analyst Intern at <a href='https://www.imperativex.com/'>Imperative Execution</a>.
+During the Summer of 2024, I am a Quant Analyst Intern at <a href='https://www.imperativex.com/'>Imperative Execution</a>.
 
-Previously,
+Until mid-June, I was a visiting student in Computer Science at the University of Oxford, where I was lucky to work on super exciting research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
 
-+ <a href='https://foersterlab.com/'>FLAIR</a>
+In the upcoming final year of my BSc, I will be writing my senior honors thesis under <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at the  <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>.
 
-+ <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a>
+After graduating in May 2025, I hope to remain in academia as a PhD student in Computer Science. I am broadly interested in artificial intelligence, especially reinforcement learning, robotics, multi-agent systems, and game theory, so that is what I am likely to pursue further!
 
-In the upcoming final year of my BSc,
-
-+ <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>
-
-+ <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a>
-
-After graduating in May 2025,
-
-+ prospective PhD applicant
-
-I am broadly interested in
-
-+ research interests
-
-In my free time,
-
-+ fun facts
+In my free time, I am a polyglot bookworm, injury-prone runner, and avid cafe journaler.
