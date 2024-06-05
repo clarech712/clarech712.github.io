@@ -123,15 +123,15 @@ google_analytics: G-EBL8D05SXF # your Google Analytics measurement ID (format: G
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: # your google-site-verification ID (Google Search Console) # TODO: once google_analytics works
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: clarech712 # blog_name will be displayed in your blog page
+blog_description: the safe space of a messy-haired globetrotting researcher
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
