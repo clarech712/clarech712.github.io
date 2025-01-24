@@ -26,9 +26,9 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Until mid-June, I was a visiting student in Computer Science at the University of Oxford, where I was lucky to work on super exciting research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
+Until mid-June, I was a visiting student in CS at the University of Oxford, where I was lucky to work on super exciting econ MARL research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
 
-During the final year of my BSc, I am writing a senior honors thesis under <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at the <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>. Watch this space!
+During the final year of my BSc, I am working on hint-guided neuro-symbolic learning under <a href='https://sites.google.com/view/shivam-goel/home'>Shivam Goel</a> at <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a>'s <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>. Watch this space!
 
 After graduating in May 2025, I hope to remain in academia as a PhD student in Computer Science. I am broadly interested in artificial intelligence, especially reinforcement learning, robotics, and multi-agent systems, so that is what I am likely to pursue further.
 
