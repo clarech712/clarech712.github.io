@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior in CS and Math @ Tufts.
+subtitle: Senior in CS and Math @ Tufts University.
 
 profile:
   align: right
-  image: prof_pic_old.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
@@ -26,10 +26,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Until mid-June, I was a visiting student in CS at the University of Oxford, where I was lucky to work on super exciting econ MARL research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
+After graduating in May 2025, I will be a CS PhD student at <a href='https://www.brown.edu/'>Brown University</a>, supervised by the marvellous <a href='https://cs.brown.edu/people/faculty/amy/'>Amy Greenwald</a>. I will be focusing on topics in AI, multi-agent systems, reinforcement learning, and algorithmic game theory. Watch this space!
 
-During the final year of my BSc, I am working on hint-guided neuro-symbolic learning under <a href='https://sites.google.com/view/shivam-goel/home'>Shivam Goel</a> at <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a>'s <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>. Watch this space!
-
-After graduating in May 2025, I hope to remain in academia as a PhD student in Computer Science. I am broadly interested in artificial intelligence, especially reinforcement learning, robotics, and multi-agent systems, so that is what I am likely to pursue further.
+Throughout my BSc, I have worked on neuro-symbolic learning for novelty handling under <a href='https://sites.google.com/view/shivam-goel/home'>Shivam Goel</a> at <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a>'s <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>. Until mid-June 2024, I was a visiting student in CS at the University of Oxford, where I was lucky to work on super exciting econ MARL research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
 
 In my free time, I am a polyglot bookworm, injury-prone runner, and avid cafe journaler.
