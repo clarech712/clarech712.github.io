@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior in CS and Math @ Tufts University.
+subtitle: Incoming CS PhD student at Brown.
 
 profile:
   align: right
@@ -26,8 +26,8 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-After graduating in May 2025, I will be a CS PhD student at <a href='https://www.brown.edu/'>Brown University</a>, supervised by the marvellous <a href='https://cs.brown.edu/people/faculty/amy/'>Amy Greenwald</a>. I will be focusing on topics in AI, multi-agent systems, reinforcement learning, and algorithmic game theory. Watch this space!
+Starting in August 2025, I will be a CS PhD student at <a href='https://www.brown.edu/'>Brown University</a>, supervised by the marvellous <a href='https://cs.brown.edu/people/faculty/amy/'>Amy Greenwald</a>. I will be focusing on topics in AI, multi-agent systems, reinforcement learning, and algorithmic game theory. Watch this space!
 
-Throughout my BSc, I have worked on neuro-symbolic learning for novelty handling under <a href='https://sites.google.com/view/shivam-goel/home'>Shivam Goel</a> at <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a>'s <a href='https://mulip.cs.tufts.edu/'>MuLIP Lab</a>. Until mid-June 2024, I was a visiting student in CS at the University of Oxford, where I was lucky to work on super exciting econ MARL research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>.
+I graduated with a BSc in Mathematics and Computer Science from <a href='https://www.tufts.edu/'>Tufts University</a> in May 2025. Throughout my studies, I worked on neuro-symbolic learning for novelty handling under the wonderful <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at <a href='https://mulip.cs.tufts.edu/'>MuLIP</a>, and <a href='https://sites.google.com/view/shivam-goel/home'>Shivam Goel</a> also mentored me. Until mid-June 2024, I was a visiting student in Computer Science at the <a href='https://www.ox.ac.uk/'>University of Oxford</a>, where I was fortunate to work on super exciting econ MARL research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>, and I also collaborated closely with Sebastian Towers.
 
 In my free time, I am a polyglot bookworm, injury-prone runner, and avid cafe journaler.
