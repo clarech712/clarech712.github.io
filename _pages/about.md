@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming CS PhD student at Brown.
+subtitle: CS PhD student at Brown.
 
 profile:
   align: right
@@ -26,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Starting in August 2025, I will be a CS PhD student at <a href='https://www.brown.edu/'>Brown University</a>, supervised by the marvellous <a href='https://cs.brown.edu/people/faculty/amy/'>Amy Greenwald</a>. I will be focusing on topics in AI, multi-agent systems, reinforcement learning, and algorithmic game theory. Watch this space!
+Since August 2025, I have been a CS PhD student at <a href='https://www.brown.edu/'>Brown University</a>, supervised by the marvellous <a href='https://cs.brown.edu/people/faculty/amy/'>Amy Greenwald</a>. I am focusing on topics in AI, multi-agent systems, reinforcement learning, and algorithmic game theory. Watch this space!
 
 I graduated with a BSc in Mathematics and Computer Science from <a href='https://www.tufts.edu/'>Tufts University</a> in May 2025. Throughout my studies, I worked on neuro-symbolic learning for novelty handling under <a href='https://www.eecs.tufts.edu/~jsinapov/'>Jivko Sinapov</a> at <a href='https://mulip.cs.tufts.edu/'>MuLIP</a>, and <a href='https://sites.google.com/view/shivam-goel/home'>Shivam Goel</a> also mentored me.
 
