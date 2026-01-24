@@ -32,4 +32,4 @@ I graduated with a BSc in Mathematics and Computer Science from <a href='https:/
 
 Until mid-June 2024, I was a visiting student in Computer Science at the <a href='https://www.ox.ac.uk/'>University of Oxford</a>, where I was fortunate to work on super exciting econ MARL research under <a href='https://www.jakobfoerster.com/'>Jakob Foerster</a> at <a href='https://foersterlab.com/'>FLAIR</a>, and I also collaborated closely with <a href='https://www.linkedin.com/in/sebastiantowers/'>Sebastian Towers</a>.
 
-In my free time, I am a polyglot bookworm, injury-prone runner, and avid cafe journaler.
+In my free time, I am a <a href='https://www.goodreads.com/clarech712'>polyglot bookworm</a>, injury-prone runner, and avid cafe journaler.
